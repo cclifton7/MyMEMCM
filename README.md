@@ -1,2 +1,2 @@
 # MyMEMCM
-Scripts, tips, tricks, teers
+Scripts, tips, tricks, tears
